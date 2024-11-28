@@ -1,2 +1,2 @@
 # MiniPaint_GDI
-![MiniPaint Screenshot](./MiniPaint-Minela-Ganovic.png)
+![MiniPaint Screenshot](.MiniPaint-Minela-Ganovic.png)
