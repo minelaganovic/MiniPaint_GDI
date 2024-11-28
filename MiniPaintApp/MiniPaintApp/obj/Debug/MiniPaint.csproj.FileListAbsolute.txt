@@ -1,0 +1,10 @@
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaint.csproj.AssemblyReference.cache
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaint.Form1.resources
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.Properties.Resources.resources
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaint.csproj.GenerateResource.cache
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaint.csproj.CoreCompileInputs.cache
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.exe
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.pdb
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\bin\Debug\MiniPaintApp.exe.config
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\bin\Debug\MiniPaintApp.exe
+D:\MiniPaintApp-master\MiniPaintApp\MiniPaintApp\bin\Debug\MiniPaintApp.pdb
